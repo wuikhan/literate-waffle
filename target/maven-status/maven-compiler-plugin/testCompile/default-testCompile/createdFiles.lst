@@ -1,3 +1,6 @@
-runner/FailedRunner.class
 runner/TestRunner.class
+utilities/BaseClass.class
+runner/SmokeTestRunner.class
+runner/FailedRunner.class
+stepDefinition/AccountTest.class
 stepDefinition/LoginTest.class
